@@ -4,7 +4,7 @@ This is a simple HTML project that displays a "Hello, World!" message on the web
 
 ## Preview
 
-![Project Screenshot](screenshot.png)  <!-- Replace with the actual image URL if needed -->
+![Project Screenshot](screenshot.png)  <!-- Ensure screenshot.png is in the same directory as README.md -->
 
 ## Features
 
@@ -19,6 +19,7 @@ To use this project locally, follow these steps:
    First, you need to clone the repository to your local machine. Run the following command in your terminal:
    ```bash
    git clone https://github.com/Aya-Ghazii/githubtest.git
+
 
 
 ### Key Improvements:
