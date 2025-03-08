@@ -2,9 +2,7 @@
 
 This is a simple HTML project that displays a "Hello, World!" message on the webpage.
 
-## Preview
 
-![Project Screenshot](screenshot.png)  <!-- Ensure screenshot.png is in the same directory as README.md -->
 
 ## Features
 
