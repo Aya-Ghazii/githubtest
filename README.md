@@ -30,7 +30,6 @@ To use this project locally, follow these steps:
 
 ### Additional Suggestions:
 
-- **Screenshot**: Make sure the `images/screenshot.png` file exists in your project, or update the path if necessary.
 - **LICENSE File**: If you don't have a LICENSE file yet, you can create one or remove that section if not applicable.
 
 This version should be easier to follow and looks more polished for anyone browsing the repository on GitHub. Let me know if you need further adjustments!
