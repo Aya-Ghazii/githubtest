@@ -4,7 +4,7 @@ This is a simple HTML project that displays a "Hello, World!" message on the web
 
 ## Preview
 
-![Project Screenshot](images/screenshot.png)  <!-- Replace with the actual image URL if needed -->
+![Project Screenshot](screenshot.png)  <!-- Replace with the actual image URL if needed -->
 
 ## Features
 
